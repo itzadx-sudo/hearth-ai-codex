@@ -138,7 +138,8 @@
 
 | Item | Value |
 |---|---|
-| Final commit SHA | To be added after commit |
+| Verified implementation commit SHA | `ac569a1bb9eb7d28443a86b169e66345431bdc21` |
+| Final documentation commit SHA | Reported in the completion response; this field is intentionally non-self-referential |
 | Public self-test command and actual outcomes (`python -m pytest tests/public`) | 2026-10-11: 9 passed, 0 failed, 0 skipped in 6.14 seconds; exact command and alias details in D-008 |
 | Outstanding issues and known limitations | No visual browser accessibility review; simulator distributions and long-duration behavior not measured; application is synthetic-data-only and nonclinical |
 | Development milestones completed | Requirements/model inspection; application, UI, persistence and tests implemented; final self-checks passed |

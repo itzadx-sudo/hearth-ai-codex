@@ -67,4 +67,5 @@ Decisions, assumptions, fixes, and verification evidence are tracked in `DECISIO
 | Public self-test command | `python -m pytest tests/public` |
 | Actual self-test result | 2026-10-11: 9 passed, 0 failed, 0 skipped; 6.14 seconds |
 | Known limitations | Synthetic demo only; no training/replay/daily summaries; local HTTP only; long-run status mix and browser accessibility not measured |
-| Final submitted commit SHA | To be filled after final commit |
+| Verified implementation commit SHA | `ac569a1bb9eb7d28443a86b169e66345431bdc21` |
+| Final commit SHA | The documentation-only finalization commit is reported in the completion response |
